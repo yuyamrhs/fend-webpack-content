@@ -1,1 +1,1 @@
-{ 'presets': ['@bebel/preset-env']}
+{ "presets": ['@bebel/preset-env']}
